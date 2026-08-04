@@ -1,0 +1,11 @@
+Complete package list:
+ipykernel
+numpy
+scipy
+matplotlib
+tqdm
+umap-learn
+hdbscan
+opencv-python-headless
+torch
+torchvision
