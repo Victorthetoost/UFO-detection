@@ -1,0 +1,9 @@
+{
+  "epoch": 1,
+  "epochs_requested": 10,
+  "completed_batches": 0,
+  "total_batches": 56780,
+  "best_map": null,
+  "free_disk_gb": 14.856,
+  "message": "training"
+}
